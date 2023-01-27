@@ -1,8 +1,8 @@
 ---
 title: Mon super site
 ---
-[Introduction](intro.md)
+[Introduction](intro.html)
 
 TODO
 
-[Conclusion](conclu.md)
+[Conclusion](conclu.html)
